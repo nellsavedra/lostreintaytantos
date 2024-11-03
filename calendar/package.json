@@ -1,0 +1,6 @@
+{
+  "name": "calendar",
+  "scripts": {
+    "build": "cp -rf src/ .build/"
+  }
+}
